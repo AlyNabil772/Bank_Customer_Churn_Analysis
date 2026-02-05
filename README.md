@@ -61,3 +61,4 @@ Power BI
 
 # 📷 Dashboard Preview
 
+<img width="614" height="363" alt="Dashboard" src="https://github.com/user-attachments/assets/8256486e-ce65-4006-850c-330b10bf9fc2" />
